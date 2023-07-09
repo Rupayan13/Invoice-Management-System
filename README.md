@@ -3,7 +3,6 @@ Invoice Management System is a website created specifically for accessing Invoic
 ![Screenshot (729)](https://github.com/Rupayan13/invoice-management-system/assets/98704479/cf2f24ed-eb1c-4912-abfb-2f6a36000dbb)
 ![Screenshot (733)](https://github.com/Rupayan13/invoice-management-system/assets/98704479/4099d164-6af6-4670-951c-598069eae80d)
 ![Screenshot (727)](https://github.com/Rupayan13/invoice-management-system/assets/98704479/1e68c6ae-899c-4d91-a067-e0bfe5db9b94)
-![Screenshot (728)](https://github.com/Rupayan13/invoice-management-system/assets/98704479/e0a4111a-18dc-4839-8785-ae1ad8653ace)
 ![image](https://github.com/Rupayan13/invoice-management-system/assets/98704479/b21db57d-0cd0-491c-aea6-8be1979607ea)
 ![Screenshot (728)](https://github.com/Rupayan13/invoice-management-system/assets/98704479/6e5494b4-0eb1-4c62-9ae4-4ee1c69cf4bb)
 ![Screenshot (720)](https://github.com/Rupayan13/invoice-management-system/assets/98704479/7574a006-6545-4814-8a80-78d7fc38ce28)
